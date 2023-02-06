@@ -14,8 +14,11 @@ section {
 }
 
 footer {
-  height: 500px;
   background-color: #494d5f;
+  color: #ffffff;
+  text-align: center;
+  padding: 80px;
+  font-size: 20px;
 }
 
 nav {
@@ -143,6 +146,13 @@ a {
   display: flex;
   border: none;
   justify-content: space-around;
+}
+
+@media only screen and (max-width: 1000px) {
+  .project-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
 }
 
 .subtext {
