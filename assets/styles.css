@@ -6,6 +6,7 @@ section {
   background-color: #ffffff;
 }
 
+/* Code for modifying the initial part of the website where my name and links appear. */
 .hero {
   background-color: #a0d2eb;
   height: 100vh;
@@ -13,6 +14,7 @@ section {
   font-size: 40px;
 }
 
+/* Code for modifying the final part of the website where my contact info is. */
 footer {
   background-color: #494d5f;
   color: #ffffff;
@@ -21,6 +23,7 @@ footer {
   font-size: 20px;
 }
 
+/* code for modifying the nav bar */
 nav {
   display: flex;
   justify-content: space-between;
@@ -39,6 +42,7 @@ li {
   text-decoration: none;
 }
 
+/* Grouping all the header and paragraph code here */
 h1 {
   font-size: 80px;
   margin: 0;
@@ -91,20 +95,24 @@ a {
   color: #808080;
 }
 
+/* Refers to the linkedin and github icons */
 .socials {
   padding-bottom: 200px;
 }
 
+/* Individual social link to add margin to each social */
 .social {
   margin: 10px;
 }
 
+/* Code for the about me section */
 .sub-section {
   display: flex;
   justify-content: space-around;
   padding: 80px;
 }
 
+/* Code for the Projects section, wanted it to be different from the about me section */
 .sub-section-alternative {
   display: flex;
   flex-direction: column;
@@ -117,11 +125,13 @@ a {
   border-radius: 150px;
 }
 
+/* Created a container so that I can add the flex property to the profile pic */
 .profile-pic-container {
   display: flex;
   align-items: center;
 }
 
+/* Project one should be larger than the rest so I created a separate class */
 .project-one-card {
   width: 1000px;
   height: 500px;
@@ -137,6 +147,7 @@ a {
   border-radius: 50px;
 }
 
+/* Same as for the project, project one container to modify project one separately */
 .project-one-container {
   display: flex;
   border: none;
@@ -150,6 +161,7 @@ a {
   justify-content: space-around;
 }
 
+/* Ensures that projects section flexes to account for mobile users  */
 @media only screen and (max-width: 1000px) {
   .project-container {
     display: flex;

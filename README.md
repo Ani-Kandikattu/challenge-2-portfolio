@@ -8,6 +8,8 @@ I utilized HTML, CSS, flexbox, and media queries to build a responsive and inter
 
 I learned how to utilize flexbox mechanics and media queries effectively. I also practiced HTML and CSS elements I've learned about previously.
 
+https://ani-kandikattu.github.io/challenge-2-portfolio/
+
 ## Credits
 
 Images for the projects were sourced from unsplash.com. They are copyright free and can be used freely under the Unsplash license.
