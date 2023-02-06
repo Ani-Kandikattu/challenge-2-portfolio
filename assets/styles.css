@@ -3,7 +3,6 @@ body {
 }
 
 section {
-  height: 500px;
   background-color: #ffffff;
 }
 
@@ -40,6 +39,10 @@ li {
 h1 {
   font-size: 50px;
   margin: 0;
+}
+
+h2 {
+  font-size: 40px;
 }
 
 p {
@@ -86,4 +89,20 @@ p {
 
 .social {
   margin: 10px;
+}
+
+.sub-section {
+  display: flex;
+  justify-content: space-around;
+  padding: 80px;
+}
+
+.profile-pic {
+  width: 300px;
+  border-radius: 150px;
+}
+
+.profile-pic-container {
+  display: flex;
+  align-items: center;
 }
