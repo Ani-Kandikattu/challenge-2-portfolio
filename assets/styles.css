@@ -51,6 +51,11 @@ p {
   font-weight: 300;
 }
 
+a {
+  text-decoration: none;
+  color: #ffffff;
+}
+
 .hero-area {
   display: flex;
   align-items: center;
@@ -97,6 +102,13 @@ p {
   padding: 80px;
 }
 
+.sub-section-alternative {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding: 80px;
+}
+
 .profile-pic {
   width: 300px;
   border-radius: 150px;
@@ -105,4 +117,57 @@ p {
 .profile-pic-container {
   display: flex;
   align-items: center;
+}
+
+.project-one-card {
+  width: 1000px;
+  height: 500px;
+  box-shadow: 5px 5px 20px rgb(189, 189, 189);
+}
+
+.project-card {
+  width: 300px;
+  height: 500px;
+  box-shadow: 5px 5px 20px rgb(189, 189, 189);
+  margin: 10px;
+}
+
+.project-one-container {
+  display: flex;
+  border: none;
+  justify-content: space-around;
+  padding: 50px;
+}
+
+.project-container {
+  display: flex;
+  border: none;
+  justify-content: space-around;
+}
+
+.subtext {
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.project-one-image {
+  width: 300px;
+  margin-top: 25px;
+  border-radius: 150px;
+}
+
+.project-image {
+  width: 250px;
+  border-radius: 125px;
+  margin-top: 25px;
+}
+
+hr {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.project-link {
+  text-decoration: none;
+  color: #5959d3;
 }
