@@ -15,3 +15,8 @@ The image for project-1 was uploaded by Pankaj Patel to unsplash.com
 The image for project-2 was uploaded by regularguy.eth to unsplash.com
 The image for project-3 was uploaded by Nick Morrison to unsplash.com
 The image for work-in-progress was uploaded by IA SB to unsplash.com
+
+Example CS Portfolios I looked at:
+https://www.hostinger.com/tutorials/web-developer-portfolio
+https://catalins.tech/14-best-web-developer-portfolios-to-get-inspiration/
+https://tamuk.quickstart.com/blog/10-full-stack-web-developer-portfolio-to-inspire-you/
